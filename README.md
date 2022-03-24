@@ -1,4 +1,4 @@
-# Crypto-App
+# Crypto-Dashboard
 
 Crypto Dashboard in React and Nodejs
 
